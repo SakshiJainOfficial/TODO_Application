@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+}/* 
+    Document   : style
+    Created on : May 2, 2020, 9:04:04 PM
+    Author     : sakshi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
